@@ -1,4 +1,4 @@
-# LittleLemon-By-PrithvirajChauhan
+# LittleLemon-By-VishakhShetty
 
 
 ![Logo](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/73a51b00bc4058fa79e63acbf3a2f0b74696fe36/logo.png)
@@ -58,7 +58,7 @@ The menu page dynamically displays all available dishes in the restaurant. Custo
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale.git
+https://github.com/Vishakh17/Litllelemon
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
