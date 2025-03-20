@@ -9,7 +9,7 @@ Welcome to the **Little Lemon Restaurant** project! A Django-powered web applica
 
 
 
-![Little Lemon Preview](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/a3d04c30b14759ef422b02c177c559ea74a204ed/Screenshot%202025-03-09%20175433.png)
+![Little Lemon Preview](https://github.com/Vishakh17/Litllelemon/blob/main/Screenshot%202025-03-09%20173814.png)
 
 
 
