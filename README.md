@@ -1,7 +1,7 @@
 # LittleLemon-By-VishakhShetty
 
 
-![Logo](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/73a51b00bc4058fa79e63acbf3a2f0b74696fe36/logo.png)
+![Logo](https://github.com/Vishakh17/Litllelemon/blob/main/Screenshot%202025-03-09%20175433.png)
 
 
 
