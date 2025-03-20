@@ -15,13 +15,13 @@ Welcome to the **Little Lemon Restaurant** project! A Django-powered web applica
 
 The About Us page provides insight into Little Lemon's history, mission, and values. It tells the story of the founders and their dedication to providing top-notch dining experiences.
 
-![About Us](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/988f218a5cfae67855dbe01729b6d24cdf8a17d4/Screenshot%202025-03-09%20174043.png)
+![About Us](https://github.com/Vishakh17/Litllelemon/blob/main/Screenshot%202025-03-09%20174043.png)
 
 
 
 The menu page dynamically displays all available dishes in the restaurant. Customers can browse different categories of food and view detailed descriptions of each item.
 
-![Menu Page](https://github.com/NYSHREYAS/LittleLemon-By-ShreyasNepale/blob/2fda58329df3d5e53e860f826dcca2bbb4c8f350/Screenshot%202025-03-09%20173814.png)
+![Menu Page](https://github.com/Vishakh17/Litllelemon/blob/main/Screenshot%202025-03-09%20173814.png)
 
 
 
